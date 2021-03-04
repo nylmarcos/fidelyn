@@ -83,7 +83,10 @@
                 <div class="title m-b-md">
                     FideLyn
                 </div>
-
+                <div class="m-b-md">
+                    FideLyn é um cartão de fidelidade online. <br />
+                    Você poderá gerenciar pontos dos seus clientes de forma simples... 
+                </div>
                 <div class="links">
                     <!-- <a href="#">Como funciona</a> -->
                     <a href="https://api.whatsapp.com/send?phone=5563999773801&text=" target="_blank">Dúvidas? (Whatsapp)</a>
